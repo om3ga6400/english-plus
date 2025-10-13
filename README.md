@@ -1,156 +1,134 @@
 # english-plus
 
-English 2.0 — Full Spelling Rules
-
-
-1. No silent letters
+## 1. No silent letters
 
 Spell every sound you pronounce and nothing more.
 
-Examples:
+### Examples:
 
-Teroodaktool (pterodactyl)
-
-niif (knife)
-
-
-2. Double a letter if it’s pronounced like the letter’s name
-
-Examples:
-
-waaneeg (waning)
-
-Aar (air)
-
-Aat (ate)
-
-Meet (meet)
-
-See (see)
-
-Biit (bite)
-
-boot (boat)
-
-dotee (duty)
+Teroodaktool (pterodactyl),  
+Niif (knife).
 
 
-3. Ph → F
+## 2. Double a letter if it’s pronounced like the letter’s name
 
-Examples:
+### Examples:
 
-fone (phone)
-
-eleefent (elephant)
-
-
-4. Th → D or F (based on pronunciation)
-
-Stuff like thin, thought → F
-
-fin (thin), fot (thought)
+waaneeg (waning),  
+Aar (air),  
+Aat (ate),  
+Meet (meet),  
+See (see),  
+Biit (bite),  
+boot (boat),  
+dotee (duty).
 
 
-Stuff like this, then, the → D
+## 3. Ph → F
 
-dis (this), den (then), deh (the)
+### Examples:
 
-
-5. C → K or S
-
-Hard → K: kat (cat), khaar (chair)
-
-Soft → S: sent (cent)
+fone (phone),  
+Lleefent (elephant).
 
 
-6. Z → S
+## 4. Th → D or F (based on pronunciation)
 
-Examples:
+### Examples:
 
-soo (zoo)
-
-sero (zero)
-
-
-7. Ed → T (past tense)
-
-Examples:
-
-walkt (walked)
-
-jumpt (jumped)
+fin (thin),  
+fot (thought),  
+dis (this),  
+den (then),  
+deh (the).  
 
 
-8. X → Ks or Gz depending on English 2.0 — Full Spelling Rules
+## 5. C → K or S
+
+### Examples:
+
+Kat (cat),  
+Khaar (chair),  
+Sent (cent).
 
 
-Examples:
+## 6. Z → S
 
-foks (fox)
+### Examples:
 
-egzakt (exact)
-
-
-9. I → E except when pronounced like eye
-
-example
-
-I (I)
-eglo (igloo)
+soo (zoo),  
+sero (zero).
 
 
-10. Q → Kua
+## 7. Ed → T (past tense)
 
-q = kua
+### Examples:
 
-kuaency (Quincy)
-
-
-11. Capitalization
-
-First letter of a sentence is capitalized.
-
-All other letters lowercase.
+walkt (walked),  
+jumpt (jumped).
 
 
-12. Every word is spelt exactly how it’s pronounced.
+## 8. X → Ks or Gz
 
-Example Sentence
+### Examples:
+
+foks (fox),  
+egzakt (exact).
+
+
+## 9. I → E except when pronounced like eye
+
+### Examples:
+
+Ii (I),  
+eglo (Igloo).
+
+
+## 10. Q → Kua
+
+### Examples:
+
+kuaency (Quincy),  
+kualefii (Qualify).
+
+
+## 11. Every word is spelt exactly how its pronounced.
+
+### Examples:
 
 Original:
 
-The quick brown fox jumped over the lazy dog.
+`The quick brown fox jumped over the lazy dog.`
 
-English 2.0
+English+
 
-Deh kwek brawn foks jumpt oover deh laasee dag.
+`Deh kwek brawn foks jumpt oovr deh laasee dag.`
 
-Pronounce 
+## Pronunciation 
 
-A = ah
-B = b as in buh
-C = N.A.
-D = d as in duh
-E = eh
-F = f as in fuh
-G = g as in guh
-H = hu as in hug
-I = N.A.
-J = j as in juh
-K = k as in kuh
-L = l as in luh
-M = m as in muh
-N = n as in nug
-O = oo as in moon
-P = p as in puh
-Q = qu as in quail
-R = r as in ru
-S = s as in suck
-T = t as in tuh
-U = uh
-V = v as in vuh
-W = w as in what
-X = N.A.
-Y = y as in yeah
+A = ah  
+B = b as in buh  
+C = N.A.  
+D = d as in duh  
+E = eh  
+F = f as in fuh  
+G = g as in guh  
+H = hu as in hug  
+I = N.A.  
+J = j as in juh  
+K = k as in kuh  
+L = l as in luh  
+M = m as in muh  
+N = n as in nug  
+O = oo as in moon  
+P = p as in puh  
+Q = qu as in quail  
+R = r as in ru  
+S = s as in suck  
+T = t as in tuh  
+U = uh  
+V = v as in vuh  
+W = w as in what  
+X = N.A.  
+Y = y as in yeah  
 Z = N.A.
-
