@@ -14,14 +14,14 @@ Niif (knife).
 
 ### Examples:
 
-waaneeg (waning),  
+Waaneeng (waning),  
 Aar (air),  
 Aat (ate),  
 Meet (meet),  
 See (see),  
 Biit (bite),  
-boot (boat),  
-dotee (duty).
+Boot (boat),  
+Dotee (duty).
 
 
 ## 3. Ph → F
@@ -43,7 +43,7 @@ den (then),
 deh (the).  
 
 
-## 5. C → K or S
+## 5. C → K or S (based on pronunciation)
 
 ### Examples:
 
@@ -52,12 +52,12 @@ Khaar (chair),
 Sent (cent).
 
 
-## 6. Z → S
+## 6. X → Ks or Gz (based on pronunciation)
 
 ### Examples:
 
-soo (zoo),  
-sero (zero).
+foks (fox),  
+egzakt (exact).
 
 
 ## 7. Ed → T (past tense)
@@ -68,15 +68,7 @@ walkt (walked),
 jumpt (jumped).
 
 
-## 8. X → Ks or Gz
-
-### Examples:
-
-foks (fox),  
-egzakt (exact).
-
-
-## 9. I → E except when pronounced like eye
+## 8. I → E (except when pronounced eye)
 
 ### Examples:
 
@@ -84,12 +76,15 @@ Ii (I),
 eglo (Igloo).
 
 
-## 10. Q → Kua
+## 9. Q → Kua
 
 ### Examples:
 
 kuaency (Quincy),  
 kualefii (Qualify).
+
+
+## 10. Z → Zed (the name of the letter only)
 
 
 ## 11. Every word is spelt exactly how its pronounced.
@@ -102,7 +97,7 @@ Original:
 
 English+
 
-`Deh kwek brawn foks jumpt oovr deh laasee dag.`
+`Deh kwek brawn foks jumpt oovr deh laazee dag.`
 
 ## Pronunciation 
 
@@ -131,4 +126,8 @@ V = v as in vuh
 W = w as in what  
 X = N.A.  
 Y = y as in yeah  
-Z = N.A.
+Z = z as in zuh
+
+### Other
+
+Kh = ch
