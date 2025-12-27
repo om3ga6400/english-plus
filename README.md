@@ -60,20 +60,21 @@ Foks (fox),
 Egzakt (exact).
 
 
-## 7. Ed → T (past tense)
 
-### Examples:
-
-Walkt (walked),  
-Jumpt (jumped).
-
-
-## 8. I → E (except when pronounced eye)
+## 7. I → E or Ahy (based on pronunciation)
 
 ### Examples:
 
 Ii (I),  
 Eglo (Igloo).
+
+
+## 8. Ed → T (past tense)
+
+### Examples:
+
+Walkt (walked),  
+Jumpt (jumped).
 
 
 ## 9. Q → Kua
@@ -100,13 +101,10 @@ English+
 
 A = ah  
 B = b as in buh  
-C = N.A.  
 D = d as in duh  
-E = eh  
 F = f as in fuh  
 G = g as in guh  
 H = hu as in hug  
-I = N.A.  
 J = j as in juh  
 K = k as in kuh  
 L = l as in luh  
@@ -121,7 +119,6 @@ T = t as in tuh
 U = uh  
 V = v as in vuh  
 W = w as in what  
-X = N.A.  
 Y = y as in yeah  
 Z = z as in zuh
 
