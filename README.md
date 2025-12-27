@@ -84,10 +84,7 @@ kuaency (Quincy),
 kualefii (Qualify).
 
 
-## 10. Z → Zed (the name of the letter only)
-
-
-## 11. Every word is spelt exactly how its pronounced.
+## 10. Every word is spelt exactly how its pronounced.
 
 ### Examples:
 
