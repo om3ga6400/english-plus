@@ -28,7 +28,7 @@ Dotee (duty).
 
 ### Examples:
 
-fone (phone),  
+Fone (phone),  
 Lleefent (elephant).
 
 
@@ -36,11 +36,11 @@ Lleefent (elephant).
 
 ### Examples:
 
-fin (thin),  
-fot (thought),  
-dis (this),  
-den (then),  
-deh (the).  
+Fin (thin),  
+Fot (thought),  
+Dis (this),  
+Den (then),  
+Deh (the).  
 
 
 ## 5. C → K or S (based on pronunciation)
@@ -56,16 +56,16 @@ Sent (cent).
 
 ### Examples:
 
-foks (fox),  
-egzakt (exact).
+Foks (fox),  
+Egzakt (exact).
 
 
 ## 7. Ed → T (past tense)
 
 ### Examples:
 
-walkt (walked),  
-jumpt (jumped).
+Walkt (walked),  
+Jumpt (jumped).
 
 
 ## 8. I → E (except when pronounced eye)
@@ -73,15 +73,15 @@ jumpt (jumped).
 ### Examples:
 
 Ii (I),  
-eglo (Igloo).
+Eglo (Igloo).
 
 
 ## 9. Q → Kua
 
 ### Examples:
 
-kuaency (Quincy),  
-kualefii (Qualify).
+Kuaency (Quincy),  
+Kualefii (Qualify).
 
 
 ## 10. Every word is spelt exactly how its pronounced.
