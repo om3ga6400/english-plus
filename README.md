@@ -10,7 +10,7 @@ Teroodaktool (pterodactyl),
 Niif (knife).
 
 
-## 2. Double a letter if it’s pronounced like the letter’s name
+## 2. Double a letter pronounced as the letter’s name
 
 ### Examples:
 
