@@ -36,9 +36,9 @@ Lleefent (elephant).
 
 ### Examples:
 
-Fin (thin),  
+Fen (thin),  
 Fot (thought),  
-Dis (this),  
+Des (this),  
 Den (then),  
 Deh (the).  
 
@@ -65,7 +65,7 @@ Egzakt (exact).
 
 ### Examples:
 
-Ii (I),  
+Ahy (I),  
 Eglo (Igloo).
 
 
@@ -82,7 +82,7 @@ Jumpt (jumped).
 ### Examples:
 
 Kuaency (Quincy),  
-Kualefii (Qualify).
+Kualefiehy (Qualify).
 
 
 ## 10. Every word is spelt exactly how its pronounced.
