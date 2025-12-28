@@ -10,7 +10,7 @@ Teroodaktool (pterodactyl),
 Niif (knife).
 
 
-## 2. Double letter pronounced as the letter’s name
+## 2. Double letters are pronounced as the letter’s name
 
 ### Examples:
 
@@ -73,7 +73,7 @@ Kuaency (Quincy),
 Kualefiehy (Qualify).
 
 
-### Examples:
+## Examples:
 
 Original:
 
@@ -85,28 +85,28 @@ English+
 
 ## Pronunciation 
 
-A = ah  
-B = b as in buh  
+A = o in owch  
+B = b as in buns   
 D = d as in duh  
-F = f as in fuh  
-G = g as in guh  
-H = hu as in hug  
-J = j as in juh  
-K = k as in kuh  
-L = l as in luh  
-M = m as in muh  
-N = n as in nug  
+E = e as in edible  
+F = f as in fun  
+G = g as in gary  
+H = h as in hug  
+J = j as in joke  
+K = c as in cataclysm  
+L = l as in lose  
+M = m as in moose  
+N = n as in nugget  
 O = oo as in moon  
-P = p as in puh  
-Q = qu as in quail  
-R = r as in ru  
+P = p as in putin  
+R = r as in run  
 S = s as in suck  
-T = t as in tuh  
-U = uh  
-V = v as in vuh  
+T = t as in tectonic  
+U = u as in unbelievable  
+V = v as in voodoo  
 W = w as in what  
 Y = y as in yeah  
-Z = z as in zuh
+Z = z as in zebra
 
 ### Other
 
