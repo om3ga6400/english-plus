@@ -83,32 +83,30 @@ English+
 
 `Thee kwek brawn foks jumpt oovr deh laazee dag.`
 
-## Pronunciation 
 
-A = o in owch  
-B = b as in buns   
-D = d as in duh  
-E = e as in edible  
-F = f as in fun  
-G = g as in gary  
-H = h as in hug  
-J = j as in joke  
-K = c as in cataclysm  
-L = l as in lose  
-M = m as in moose  
-N = n as in nugget  
-O = oo as in moon  
-P = p as in putin  
-R = r as in run  
-S = s as in suck  
-T = t as in tectonic  
-U = u as in unbelievable  
-V = v as in voodoo  
-W = w as in what  
-Y = y as in yeah  
-Z = z as in zebra
+## Pronunciation (based on IPA):
 
-### Other
-
-Th = th as in thought  
-Kh = ch as in choose
+A = a
+B = b  
+D = d
+E = e
+F = f 
+G = g
+H = h 
+J = dʒ
+K = k
+L = l
+M = m
+N = n
+O = u
+P = p 
+R = r 
+S = s 
+T = t  
+U = ʌ
+V = v
+W = w 
+Y = j
+Z = z
+Th = θ
+Kh = tʃ
