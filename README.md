@@ -110,5 +110,5 @@ Z = z as in zebra
 
 ### Other
 
-Th = th as in thought
+Th = th as in thought  
 Kh = ch as in choose
