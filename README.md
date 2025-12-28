@@ -28,22 +28,11 @@ Dotee (duty).
 
 ### Examples:
 
-Fone (phone),  
-Lleefent (elephant).
+Foon (phone),  
+Lleefent (elephant).  
 
 
-## 4. Th → D or F (based on pronunciation)
-
-### Examples:
-
-Fen (thin),  
-Fot (thought),  
-Des (this),  
-Den (then),  
-Deh (the).  
-
-
-## 5. C → K or S (based on pronunciation)
+## 4. C → K or S (based on pronunciation)
 
 ### Examples:
 
@@ -52,7 +41,7 @@ Khaar (chair),
 Sent (cent).
 
 
-## 6. X → Ks or Gz (based on pronunciation)
+## 5. X → Ks or Gz (based on pronunciation)
 
 ### Examples:
 
@@ -60,8 +49,7 @@ Foks (fox),
 Egzakt (exact).
 
 
-
-## 7. I → E or Ahy (based on pronunciation)
+## 6. I → E or Ahy (based on pronunciation)
 
 ### Examples:
 
@@ -69,7 +57,7 @@ Ahy (I),
 Eglo (Igloo).
 
 
-## 8. Ed → T (past tense)
+## 7. Ed → T (past tense)
 
 ### Examples:
 
@@ -77,15 +65,13 @@ Walkt (walked),
 Jumpt (jumped).
 
 
-## 9. Q → Kua
+## 8. Q → Kua
 
 ### Examples:
 
 Kuaency (Quincy),  
 Kualefiehy (Qualify).
 
-
-## 10. Every word is spelt exactly how its pronounced.
 
 ### Examples:
 
@@ -95,7 +81,7 @@ Original:
 
 English+
 
-`Deh kwek brawn foks jumpt oovr deh laazee dag.`
+`Thee kwek brawn foks jumpt oovr deh laazee dag.`
 
 ## Pronunciation 
 
@@ -124,4 +110,5 @@ Z = z as in zuh
 
 ### Other
 
-Kh = ch
+Th = th as in thought
+Kh = ch as in choose
