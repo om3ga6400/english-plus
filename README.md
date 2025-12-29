@@ -7,7 +7,7 @@ Spell every sound you pronounce and nothing more.
 ### Examples:
 
 Teroodaktool (pterodactyl),  
-Niif (knife).
+Nahyf (knife).
 
 
 ## 2. Double letters are pronounced as the letter’s name
@@ -19,7 +19,7 @@ Aar (air),
 Aat (ate),  
 Meet (meet),  
 See (see),  
-Biit (bite),  
+Bahyt (bite),  
 Boot (boat),  
 Dotee (duty).
 
@@ -70,7 +70,7 @@ Jumpt (jumped).
 ### Examples:
 
 Kuaency (Quincy),  
-Kualefiehy (Qualify).
+Kualefehy (Qualify).
 
 
 ## Examples:
