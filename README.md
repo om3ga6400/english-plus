@@ -81,7 +81,7 @@ Original:
 
 English+
 
-`Thee kwek brawn foks jumpt oovr deh laazee dag.`
+`Thee kwek brawn foks jumpt oovr theh laazee dag.`
 
 
 ## Pronunciation (based on IPA):
