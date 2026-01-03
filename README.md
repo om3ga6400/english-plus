@@ -6,7 +6,7 @@ Spell every sound you pronounce and nothing more.
 
 ### Examples:
 
-Teroodaktool (pterodactyl),  
+Teroodaktel (pterodactyl),  
 Nahyf (knife).
 
 
