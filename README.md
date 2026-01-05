@@ -49,11 +49,11 @@ Foks (fox),
 Egzakt (exact).
 
 
-## 6. I → E or Ahy (based on pronunciation)
+## 6. I → E or Ay (based on pronunciation)
 
 ### Examples:
 
-Ahy (I),  
+Ay (I),  
 Eglo (Igloo).
 
 
@@ -65,12 +65,12 @@ Walkt (walked),
 Jumpt (jumped).
 
 
-## 8. Q → Kua
+## 8. Q → Kw
 
 ### Examples:
 
-Kuaency (Quincy),  
-Kualefehy (Qualify).
+Kwency (Quincy),  
+Kwlefay (Qualify).
 
 
 ## Examples:
