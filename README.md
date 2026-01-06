@@ -19,8 +19,9 @@ Aar (air),
 Aat (ate),  
 Meet (meet),  
 See (see),  
-Bahyt (bite),  
+Bayt (bite),  
 Boot (boat),  
+dat (dot),
 Dotee (duty).
 
 
@@ -29,7 +30,7 @@ Dotee (duty).
 ### Examples:
 
 Foon (phone),  
-Lleefent (elephant).  
+Lleefnnt (elephant).  
 
 
 ## 4. C → K or S (based on pronunciation)
@@ -46,7 +47,7 @@ Sent (cent).
 ### Examples:
 
 Foks (fox),  
-Egzakt (exact).
+Ekzakt (exact).
 
 
 ## 6. I → E or Ay (based on pronunciation)
