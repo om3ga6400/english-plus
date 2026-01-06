@@ -6,8 +6,8 @@ Spell every sound you pronounce and nothing more.
 
 ### Examples:
 
-Teroodaktel (pterodactyl),  
-Nahyf (knife).
+Teroodaktl (pterodactyl),  
+Nayf (knife).
 
 
 ## 2. Double letters are pronounced as the letter’s name
@@ -42,7 +42,7 @@ Khaar (chair),
 Sent (cent).
 
 
-## 5. X → Ks or Gz (based on pronunciation)
+## 5. X → K (based on pronunciation)
 
 ### Examples:
 
@@ -70,7 +70,7 @@ Jumpt (jumped).
 
 ### Examples:
 
-Kwency (Quincy),  
+Kwensee (Quincy),  
 Kwlefay (Qualify).
 
 
@@ -82,7 +82,7 @@ Original:
 
 English+
 
-`Thee kwek brawn foks jumpt oovr theh laazee dag.`
+`Thee kwek brawn foks jumpt oovr thee laazz dag.`
 
 
 ## Pronunciation (based on IPA):
