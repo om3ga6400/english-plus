@@ -6,8 +6,8 @@ Spell every sound you pronounce and nothing more.
 
 ### Examples:
 
-Teroodaktl (pterodactyl),  
-Nayf (knife).
+Teroodaktl (Pterodactyl),  
+Nayf (Knife).
 
 
 ## 2. Double letters are pronounced as the letter’s name
@@ -15,41 +15,41 @@ Nayf (knife).
 ### Examples:
 
 Waaneeng (waning),  
-Aar (air),  
-Aat (ate),  
-Meet (meet),  
-See (see),  
-Bayt (bite),  
-Boot (boat),  
-dat (dot),  
-waa (way),  
-Dotee (duty).
+Aar (Air),  
+Aat (Ate),  
+Meet (Meet),  
+See (See),  
+Bayt (Bite),  
+Boot (Boat),  
+dat (Dot),  
+waa (Way),  
+Dotee (Duty).
 
 
 ## 3. Ph → F
 
 ### Examples:
 
-Foon (phone),  
-Lleefnnt (elephant).
+Foon (Phone),  
+Lleefnnt (Elephant).
 
 
 ## 4. C → K or S (based on pronunciation)
 
 ### Examples:
 
-Kat (cat),  
-Khaar (chair),  
-Sent (cent).
+Kat (Cat),  
+Khaar (Chair),  
+Sent (Cent).
 
 
 ## 5. X → K (based on pronunciation) (x makes no sense in english so just follow #1 tbh)
 
 ### Examples:
 
-Foks (fox),  
-Ekzakt (exact),  
-Xxzaylufoon (xylophone).
+Foks (Fox),  
+Ekzakt (Exact),  
+Xxzaylufoon (Xylophone).
 
 
 ## 6. I → E or Ay (based on pronunciation)
@@ -57,7 +57,7 @@ Xxzaylufoon (xylophone).
 ### Examples:
 
 Ay (I),  
-elisit (illicit),  
+elisit (Illicit),  
 Eglo (Igloo).
 
 
@@ -65,8 +65,8 @@ Eglo (Igloo).
 
 ### Examples:
 
-Walkt (walked),  
-Jumpt (jumped).
+Walkt (Walked),  
+Jumpt (Jumped).
 
 
 ## 8. Q → Kw
@@ -74,7 +74,7 @@ Jumpt (jumped).
 ### Examples:
 
 Kwensee (Quincy),  
-Kweeree Query),  
+Kweeree (Query),  
 Kwalafay (Qualify).
 
 
