@@ -6,14 +6,17 @@ Spell every sound you pronounce and nothing more.
 
 ### Examples:
 
+```
 Teroodaktl (Pterodactyl),  
 Nayf (Knife).
+```
 
 
 ## 2. Double letters are pronounced as the letter’s name
 
 ### Examples:
 
+```
 Waaneeng (waning),  
 Aar (Air),  
 Aat (Ate),  
@@ -24,58 +27,73 @@ Boot (Boat),
 dat (Dot),  
 waa (Way),  
 Dotee (Duty).
+```
 
 
 ## 3. Ph → F
 
 ### Examples:
 
+```
 Foon (Phone),  
 Lleefnnt (Elephant).
+```
 
 
 ## 4. C → K or S (based on pronunciation)
 
 ### Examples:
 
+```
 Kat (Cat),  
 Khaar (Chair),  
 Sent (Cent).
+```
 
 
-## 5. X → K (based on pronunciation) (x makes no sense in english so just follow #1 tbh)
+## 5. X → K (based on pronunciation)
+
+> x makes no sense in english so just follow #1 tbh
 
 ### Examples:
 
+```
 Foks (Fox),  
 Ekzakt (Exact),  
 Xxzaylufoon (Xylophone).
+```
 
 
 ## 6. I → E or Ay (based on pronunciation)
 
 ### Examples:
 
+```
 Ay (I),  
 elisit (Illicit),  
 Eglo (Igloo).
+```
 
 
 ## 7. Ed → T (past tense)
 
 ### Examples:
 
+```
 Walkt (Walked),  
 Jumpt (Jumped).
+```
 
 
 ## 8. Q → Kw
 
 ### Examples:
 
+```
 Kwensee (Quincy),  
 Kweeree (Query),  
 Kwalafay (Qualify).
+```
 
 
 ## Examples:
@@ -91,6 +109,7 @@ English+
 
 ## Pronunciation (based on IPA):
 
+```
 A = a  
 B = b  
 D = d  
@@ -114,4 +133,5 @@ W = w
 Y = j  
 Z = z  
 Th = θ  
-Kh = tʃ  
+Kh = tʃ
+```
