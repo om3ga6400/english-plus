@@ -22,6 +22,7 @@ See (see),
 Bayt (bite),  
 Boot (boat),  
 dat (dot),
+waa (way),
 Dotee (duty).
 
 
