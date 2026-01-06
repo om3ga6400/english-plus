@@ -31,7 +31,7 @@ Dotee (duty).
 ### Examples:
 
 Foon (phone),  
-Lleefnnt (elephant).  
+Lleefnnt (elephant).
 
 
 ## 4. C → K or S (based on pronunciation)
@@ -43,12 +43,13 @@ Khaar (chair),
 Sent (cent).
 
 
-## 5. X → K (based on pronunciation)
+## 5. X → K (based on pronunciation) (x makes no sense in english so just follow #1 tbh)
 
 ### Examples:
 
 Foks (fox),  
-Ekzakt (exact).
+Ekzakt (exact),  
+Xxzaylufoon (xylophone).
 
 
 ## 6. I → E or Ay (based on pronunciation)
@@ -56,6 +57,7 @@ Ekzakt (exact).
 ### Examples:
 
 Ay (I),  
+elisit (illicit),  
 Eglo (Igloo).
 
 
@@ -72,7 +74,8 @@ Jumpt (jumped).
 ### Examples:
 
 Kwensee (Quincy),  
-Kwlefay (Qualify).
+Kweeree Query),  
+Kwalafay (Qualify).
 
 
 ## Examples:
