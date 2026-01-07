@@ -104,7 +104,7 @@ Original:
 
 English+
 
-`Thee kwek brawn foks jumpt oovr thee laazz dag.`
+`Thee kwek brawn faks jumpt oovr thee laazz dag.`
 
 
 ## Pronunciation (based on IPA):
