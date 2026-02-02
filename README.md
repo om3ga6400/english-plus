@@ -7,16 +7,16 @@ Spell every sound you pronounce and nothing more.
 ### Examples:
 
 ```
-Teruwdahktl (Pterodactyl),
-Er (Air),
-Bayt (Bite),
-Baht (Bat),
-Weyneeng (waning),
-Eyt (Ate),
-Dat (Dot),
-Wey (Way),
-Buwt (Boat),
-Nayf (Knife).
+Teruwdahktl (Pterodactyl)
+Er (Air)
+Bayt (Bite)
+Baht (Bat)
+Weyneeng (waning)
+Eyt (Ate)
+Dat (Dot)
+Wey (Way)
+Buwt (Boat)
+Nayf (Knife)
 ```
 
 ## 2. Double E pronounced as its name
@@ -24,10 +24,10 @@ Nayf (Knife).
 ### Examples:
 
 ```
-Meet (Meat),
-See (See),
-Kheetu (Cheetah),
-Dotee (Duty).
+Meet (Meat)
+See (See)
+Kheetu (Cheetah)
+Dotee (Duty)
 ```
 
 ## 3. Ph → F
@@ -35,8 +35,8 @@ Dotee (Duty).
 ### Examples:
 
 ```
-Fuwn (Phone),
-Eleefent (Elephant).
+Fuwn (Phone)
+Eleefent (Elephant)
 ```
 
 ## 4. C → K or S (based on pronunciation)
@@ -44,9 +44,9 @@ Eleefent (Elephant).
 ### Examples:
 
 ```
-Kaht (Cat),
-Kher (Chair),
-Sent (Cent).
+Kaht (Cat)
+Kher (Chair)
+Sent (Cent)
 ```
 
 ## 5. X → K (based on pronunciation)
@@ -56,9 +56,9 @@ Sent (Cent).
 ### Examples:
 
 ```
-Faks (Fox),
-Ekzakt (Exact),
-Zaylufuwn (Xylophone).
+Faks (Fox)
+Ekzakt (Exact)
+Zaylufuwn (Xylophone)
 ```
 
 ## 6. I → E or Ay (based on pronunciation)
@@ -66,9 +66,9 @@ Zaylufuwn (Xylophone).
 ### Examples:
 
 ```
-Ay (I),
-Elesit (Illicit),
-Eglo (Igloo).
+Ay (I)
+Elesit (Illicit)
+Eglo (Igloo)
 ```
 
 ## 7. Q → Kw
@@ -76,9 +76,9 @@ Eglo (Igloo).
 ### Examples:
 
 ```
-Kwensee (Quincy),
-Kweeree (Query),
-Kwalafay (Qualify).
+Kwensee (Quincy)
+Kweeree (Query)
+Kwalafay (Qualify)
 ```
 
 ## Examples:
@@ -129,4 +129,12 @@ Sh = /ʃ/
 Er = /ɛr/
 Ae = /ə/
 Eh = /ɪ/
+```
+
+## More translated words
+
+```
+Thro (through)
+Thuw (though)
+Tuf (tough)
 ```
