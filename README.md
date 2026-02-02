@@ -7,11 +7,11 @@ Spell every sound you pronounce and nothing more.
 ### Examples:
 
 ```
-Teruwdahktl (Pterodactyl)
+Ter-uw-dahk-tl (Pterodactyl)
 Er (Air)
 Bayt (Bite)
 Baht (Bat)
-Weyneeng (waning)
+Weyn-een (waning)
 Eyt (Ate)
 Dat (Dot)
 Wey (Way)
@@ -26,20 +26,20 @@ Nayf (Knife)
 ```
 Meet (Meat)
 See (See)
-Kheetu (Cheetah)
-Dotee (Duty)
+Khee-tu (Cheetah)
+Do-tee (Duty)
 ```
 
-## 3. Ph → F
+## 3. Ph > F
 
 ### Examples:
 
 ```
 Fuwn (Phone)
-Eleefent (Elephant)
+El-ee-fent (Elephant)
 ```
 
-## 4. C → K or S (based on pronunciation)
+## 4. C > K or S (based on pronunciation)
 
 ### Examples:
 
@@ -49,7 +49,7 @@ Kher (Chair)
 Sent (Cent)
 ```
 
-## 5. X → K (based on pronunciation)
+## 5. X > K (based on pronunciation)
 
 > x makes no sense in english so just follow #1 tbh
 
@@ -57,28 +57,28 @@ Sent (Cent)
 
 ```
 Faks (Fox)
-Ekzakt (Exact)
-Zaylufuwn (Xylophone)
+Ek-zakt (Exact)
+Zay-lu-fuwn (Xylophone)
 ```
 
-## 6. I → E or Ay (based on pronunciation)
+## 6. I > E or Ay (based on pronunciation)
 
 ### Examples:
 
 ```
 Ay (I)
-Elesit (Illicit)
-Eglo (Igloo)
+El-es-it (Illicit)
+Eg-lo (Igloo)
 ```
 
-## 7. Q → Kw
+## 7. Q > Kw
 
 ### Examples:
 
 ```
-Kwensee (Quincy)
-Kweeree (Query)
-Kwalafay (Qualify)
+Kwen-see (Quincy)
+Kwee-ree (Query)
+Kwal-a-fay (Qualify)
 ```
 
 ## Examples:
@@ -89,7 +89,7 @@ Original:
 
 English+
 
-`Du kwehk brawn faks jumpt uwver du leyzee dag.`
+`Du kwehk brawn faks jumpt uw-ver du ley-zee dag.`
 
 ## Pronunciation (based on IPA):
 
@@ -134,7 +134,8 @@ Eh = /ɪ/
 ## More translated words
 
 ```
-Thro (through)
-Thuw (though)
-Tuf (tough)
+Thro (Through)
+Thuw (Though)
+Tuf (Tough)
+Thur-uw (Thorough)
 ```
