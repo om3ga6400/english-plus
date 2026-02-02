@@ -71,16 +71,7 @@ Elesit (Illicit),
 Eglo (Igloo).
 ```
 
-## 7. Ed → T (past tense)
-
-### Examples:
-
-```
-Wakt (Walked),
-Jumpt (Jumped).
-```
-
-## 8. Q → Kw
+## 7. Q → Kw
 
 ### Examples:
 
@@ -98,7 +89,7 @@ Original:
 
 English+
 
-`Dhee kwek brawn faks jumpt uwver dhee leyzee dag.`
+`Thu kwehk brawn faks jumpt uwver thu leyzee dag.`
 
 ## Pronunciation (based on IPA):
 
@@ -136,6 +127,6 @@ Aw = /aʊ/
 Ng = /ŋ/
 Sh = /ʃ/
 Er = /ɛr/
-Dh = /ð/
 Ae = /ə/
+Eh = /ɪ/
 ```
