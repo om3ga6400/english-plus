@@ -91,7 +91,7 @@ Original:
 
 English+
 
-`Du kwehk brawn faks jump-t uw-ver du ley-zee dag.`
+`Du kwehk brawn faks jumpt uw-ver du ley-zee dag.`
 
 ## Pronunciation (based on IPA):
 
