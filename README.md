@@ -7,49 +7,45 @@ Spell every sound you pronounce and nothing more.
 ### Examples:
 
 ```
-Teroodaktl (Pterodactyl),  
+Teroodaktl (Pterodactyl),
 Nayf (Knife).
 ```
-
 
 ## 2. Double letters are pronounced as the letter’s name
 
 ### Examples:
 
 ```
-Waaneeng (waning),  
-Aar (Air),  
-Aat (Ate),  
-Meet (Meet),  
-See (See),  
-Bayt (Bite),  
-Boot (Boat),  
-dat (Dot),  
-waa (Way),  
+Waaneeng (waning),
+Aar (Air),
+Aat (Ate),
+Meet (Meet),
+See (See),
+Bayt (Bite),
+Boot (Boat),
+dat (Dot),
+waa (Way),
 Dotee (Duty).
 ```
-
 
 ## 3. Ph → F
 
 ### Examples:
 
 ```
-Foon (Phone),  
+Foon (Phone),
 Lleefnnt (Elephant).
 ```
-
 
 ## 4. C → K or S (based on pronunciation)
 
 ### Examples:
 
 ```
-Kat (Cat),  
-Khaar (Chair),  
+Kat (Cat),
+Khaar (Chair),
 Sent (Cent).
 ```
-
 
 ## 5. X → K (based on pronunciation)
 
@@ -58,43 +54,39 @@ Sent (Cent).
 ### Examples:
 
 ```
-Foks (Fox),  
-Ekzakt (Exact),  
+Foks (Fox),
+Ekzakt (Exact),
 Xxzaylufoon (Xylophone).
 ```
-
 
 ## 6. I → E or Ay (based on pronunciation)
 
 ### Examples:
 
 ```
-Ay (I),  
-elisit (Illicit),  
+Ay (I),
+elisit (Illicit),
 Eglo (Igloo).
 ```
-
 
 ## 7. Ed → T (past tense)
 
 ### Examples:
 
 ```
-Walkt (Walked),  
+Walkt (Walked),
 Jumpt (Jumped).
 ```
-
 
 ## 8. Q → Kw
 
 ### Examples:
 
 ```
-Kwensee (Quincy),  
-Kweeree (Query),  
+Kwensee (Quincy),
+Kweeree (Query),
 Kwalafay (Qualify).
 ```
-
 
 ## Examples:
 
@@ -106,32 +98,31 @@ English+
 
 `Thee kwek brawn faks jumpt oovr thee laazz dag.`
 
-
 ## Pronunciation (based on IPA):
 
 ```
-A = a  
-B = b  
-D = d  
-E = e  
-F = f  
-G = g  
-H = h  
-J = dʒ  
-K = k  
-L = l  
-M = m  
-N = n  
-O = u  
-P = p  
-R = r  
-S = s  
-T = t  
-U = ʌ  
-V = v  
-W = w  
-Y = j  
-Z = z  
-Th = θ  
+A = a
+B = b
+D = d
+E = e
+F = f
+G = g
+H = h
+J = dʒ
+K = k
+L = l
+M = m
+N = n
+O = u
+P = p
+R = r
+S = s
+T = t
+U = ʌ
+V = v
+W = w
+Y = j
+Z = z
+Th = θ
 Kh = tʃ
 ```
