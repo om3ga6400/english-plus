@@ -81,6 +81,8 @@ Kwee-ree (Query)
 Kwal-a-fay (Qualify)
 ```
 
+## 8. For each syllable put a '-' inbeween
+
 ## Examples:
 
 Original:
@@ -138,4 +140,9 @@ Thro (Through)
 Thuw (Though)
 Tuf (Tough)
 Thur-uw (Thorough)
+Nay-jer (Niger)
+Speyn (Spain)
+Wel (Well)
+Reyn-sum (Ransom)
+Tel-ee-vesh-on (Television)
 ```
