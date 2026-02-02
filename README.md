@@ -49,7 +49,7 @@ Kher (Chair)
 Sent (Cent)
 ```
 
-## 5. X > K (based on pronunciation)
+## 5. X > K or Z (based on pronunciation)
 
 > x makes no sense in english so just follow #1 tbh
 
@@ -91,7 +91,7 @@ Original:
 
 English+
 
-`Du kwehk brawn faks jumpt uw-ver du ley-zee dag.`
+`Du kwehk brawn faks jump-t uw-ver du ley-zee dag.`
 
 ## Pronunciation (based on IPA):
 
