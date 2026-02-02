@@ -133,7 +133,7 @@ Ae = /ə/
 Eh = /ɪ/
 ```
 
-## More translated words
+## More translated stuff
 
 ```
 Thro (Through)
@@ -145,4 +145,18 @@ Speyn (Spain)
 Wel (Well)
 Reyn-sum (Ransom)
 Tel-ee-vesh-on (Television)
+```
+
+```
+Hello my name is Jack, it is nice to meet you.
+Hel-uw may neym es Jak, et es nahs tuw meet yo.
+
+This is a very complex sentence.
+Thes es ey ver-ee cam-pleks sen-tens.
+
+Well look who it is.
+Wel luk hew et es.
+
+friends glossary
+frens glas-aree
 ```
