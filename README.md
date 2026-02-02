@@ -8,24 +8,25 @@ Spell every sound you pronounce and nothing more.
 
 ```
 Teroodaktl (Pterodactyl),
-Aaer (Air),
+Eyer (Air),
 Bayt (Bite),
 Daht (Dat),
+Weyneen (waning),
+Eyt (Ate),
+Dat (Dot),
+Wey (Way),
+Buwt (Boat),
 Nayf (Knife).
 ```
 
-## 2. Double letters are pronounced as the letter’s name
+## 2. Double E pronounced as its name
 
 ### Examples:
 
 ```
-Waaneen (waning),
-Aat (Ate),
 Meet (Meat),
 See (See),
-Boot (Boat),
-Dat (Dot),
-Waa (Way),
+Kheetu (Cheetah),
 Dotee (Duty).
 ```
 
@@ -34,8 +35,8 @@ Dotee (Duty).
 ### Examples:
 
 ```
-Foon (Phone),
-Lleefnnt (Elephant).
+Fuwn (Phone),
+Eleefnnt (Elephant).
 ```
 
 ## 4. C → K or S (based on pronunciation)
@@ -44,8 +45,8 @@ Lleefnnt (Elephant).
 
 ```
 Kaht (Cat),
-Khaar (Chair),
-Snnt (Cent).
+Kher (Chair),
+Sent (Cent).
 ```
 
 ## 5. X → K (based on pronunciation)
@@ -55,9 +56,9 @@ Snnt (Cent).
 ### Examples:
 
 ```
-Foks (Fox),
+Faks (Fox),
 Ekzakt (Exact),
-Xxzaylufoon (Xylophone).
+Xxzaylufuwn (Xylophone).
 ```
 
 ## 6. I → E or Ay (based on pronunciation)
@@ -126,5 +127,8 @@ Y = j
 Z = z
 Th = θ
 Kh = tʃ
-Ah = aa
+Ah = æ
+Ey = eɪ
+uw = oʊ
+ee = i
 ```
