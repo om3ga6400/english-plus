@@ -8,9 +8,9 @@ Spell every sound you pronounce and nothing more.
 
 ```
 Teroodaktl (Pterodactyl),
-Eyer (Air),
+Er (Air),
 Bayt (Bite),
-Daht (Dat),
+Baht (Bat),
 Weyneen (waning),
 Eyt (Ate),
 Dat (Dot),
@@ -58,7 +58,7 @@ Sent (Cent).
 ```
 Faks (Fox),
 Ekzakt (Exact),
-Xxzaylufuwn (Xylophone).
+Ekzaylufuwn (Xylophone).
 ```
 
 ## 6. I → E or Ay (based on pronunciation)
@@ -98,37 +98,44 @@ Original:
 
 English+
 
-`Thee kwek brawn faks jumpt oover thee laazz dag.`
+`Dhee kwek brawn faks jumpt uwver dhee leyzee dag.`
 
 ## Pronunciation (based on IPA):
 
 ```
-A = a
-B = b
-D = d
-E = e
-F = f
-G = g
-H = h
-J = dʒ
-K = k
-L = l
-M = m
-N = n
-O = u
-P = p
-R = r
-S = s
-T = t
-U = ʌ
-V = v
-W = w
-Y = j
-Z = z
-Th = θ
-Kh = tʃ
-Ah = æ
-Ey = eɪ
-uw = oʊ
-ee = i
+A = /a/
+B = /b/
+D = /d/
+E = /e/
+F = /f/
+G = /g/
+H = /h/
+J = /dʒ/
+K = /k/
+L = /l/
+M = /m/
+N = /n/
+O = /u/
+P = /p/
+R = /r/
+S = /s/
+T = /t/
+U = /ʌ/
+V = /v/
+W = /w/
+Y = /j/
+Z = /z/
+Th = /θ/
+Kh = /tʃ/
+Ah = /æ/
+Ey = /eɪ/
+Uw = /oʊ/
+Ee = /i/
+Ay = /aɪ/
+Aw = /aʊ/
+Ng = /ŋ/
+Sh = /ʃ/
+Er = /ɛr/
+Dh = /ð/
+Ae = /ə/
 ```
