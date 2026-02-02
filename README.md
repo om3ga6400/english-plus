@@ -7,11 +7,11 @@ Spell every sound you pronounce and nothing more.
 ### Examples:
 
 ```
-Teroodaktl (Pterodactyl),
+Teruwdahktl (Pterodactyl),
 Er (Air),
 Bayt (Bite),
 Baht (Bat),
-Weyneen (waning),
+Weyneeng (waning),
 Eyt (Ate),
 Dat (Dot),
 Wey (Way),
@@ -36,7 +36,7 @@ Dotee (Duty).
 
 ```
 Fuwn (Phone),
-Eleefnnt (Elephant).
+Eleefent (Elephant).
 ```
 
 ## 4. C → K or S (based on pronunciation)
@@ -58,7 +58,7 @@ Sent (Cent).
 ```
 Faks (Fox),
 Ekzakt (Exact),
-Ekzaylufuwn (Xylophone).
+Zaylufuwn (Xylophone).
 ```
 
 ## 6. I → E or Ay (based on pronunciation)
@@ -89,7 +89,7 @@ Original:
 
 English+
 
-`Thu kwehk brawn faks jumpt uwver thu leyzee dag.`
+`Du kwehk brawn faks jumpt uwver du leyzee dag.`
 
 ## Pronunciation (based on IPA):
 
