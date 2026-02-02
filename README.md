@@ -77,11 +77,11 @@ Eg-lo (Igloo)
 
 ```
 Kwen-see (Quincy)
-Kwee-ree (Query)
+Kweer-ee (Query)
 Kwal-a-fay (Qualify)
 ```
 
-## 8. For each syllable put a '-' inbeween
+## 8. Put a '-' inbeween each syllable
 
 ## Examples:
 
