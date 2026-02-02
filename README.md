@@ -16,15 +16,15 @@ Nayf (Knife).
 ### Examples:
 
 ```
-Waaneeng (waning),
-Aar (Air),
+Waaneen (waning),
+Aaer (Air),
 Aat (Ate),
 Meet (Meet),
 See (See),
 Bayt (Bite),
 Boot (Boat),
-dat (Dot),
-waa (Way),
+Dat (Dot),
+Waa (Way),
 Dotee (Duty).
 ```
 
@@ -65,7 +65,7 @@ Xxzaylufoon (Xylophone).
 
 ```
 Ay (I),
-elisit (Illicit),
+Elisit (Illicit),
 Eglo (Igloo).
 ```
 
@@ -96,7 +96,7 @@ Original:
 
 English+
 
-`Thee kwek brawn faks jumpt oovr thee laazz dag.`
+`Thee kwek brawn faks jumpt oover thee laazz dag.`
 
 ## Pronunciation (based on IPA):
 
