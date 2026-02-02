@@ -8,6 +8,9 @@ Spell every sound you pronounce and nothing more.
 
 ```
 Teroodaktl (Pterodactyl),
+Aaer (Air),
+Bayt (Bite),
+Daht (Dat),
 Nayf (Knife).
 ```
 
@@ -17,11 +20,9 @@ Nayf (Knife).
 
 ```
 Waaneen (waning),
-Aaer (Air),
 Aat (Ate),
-Meet (Meet),
+Meet (Meat),
 See (See),
-Bayt (Bite),
 Boot (Boat),
 Dat (Dot),
 Waa (Way),
@@ -42,9 +43,9 @@ Lleefnnt (Elephant).
 ### Examples:
 
 ```
-Kat (Cat),
+Kaht (Cat),
 Khaar (Chair),
-Sent (Cent).
+Snnt (Cent).
 ```
 
 ## 5. X → K (based on pronunciation)
@@ -65,7 +66,7 @@ Xxzaylufoon (Xylophone).
 
 ```
 Ay (I),
-Elisit (Illicit),
+Elesit (Illicit),
 Eglo (Igloo).
 ```
 
@@ -74,7 +75,7 @@ Eglo (Igloo).
 ### Examples:
 
 ```
-Walkt (Walked),
+Wakt (Walked),
 Jumpt (Jumped).
 ```
 
@@ -125,4 +126,5 @@ Y = j
 Z = z
 Th = θ
 Kh = tʃ
+Ah = aa
 ```
